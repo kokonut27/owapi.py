@@ -1,2 +1,2 @@
 language = "python"
-run = "python owapi.py"
+run = "python owapi/owapi.py"
