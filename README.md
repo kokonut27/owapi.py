@@ -1,5 +1,5 @@
 # owapi.py
-> An Overwatch API coded in Python. Returns json styled data. *[View it on PyPi](https://pypi.org/project/owapi/)*
+> An Overwatch API coded in Python. Returns json styled data.
 
 ## Overview
 `owapi.py` is an API module...
