@@ -15,6 +15,10 @@ setup(
 #To find more licenses or classifiers go to: https://pypi.org/classifiers/
   license = "MIT License",
   packages=['owapi'],
+  project_urls={
+    "Issues": "https://github.com/kokonut27/owapi.py/issues",
+    "Pull Requests": "https://github.com/kokonut27/owapi.py/pulls"
+    },
   classifiers = [
   "Programming Language :: Python :: 3",
   "License :: OSI Approved :: MIT License",
